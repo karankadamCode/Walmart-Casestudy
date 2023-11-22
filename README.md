@@ -1,1 +1,1 @@
-# Walmart-Casestudy
+# Walmart-Casestudy : Confidence Interval and CLT
