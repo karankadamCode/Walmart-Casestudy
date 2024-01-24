@@ -1,1 +1,2 @@
 # Walmart-Casestudy : Confidence Interval and CLT
+The business problem at hand revolves around understanding and analyzing customer purchase behavior, with a specific focus on purchase amounts during Black Friday at Walmart Inc. The primary objective is to discern potential variations in spending habits between male and female customers. With an assumed customer base of 50 million males and 50 million females, the management team aims to derive insights that can inform strategic decision-making.
